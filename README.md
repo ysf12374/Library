@@ -1,4 +1,4 @@
-# Sungazer Symfony Challenge
+# Symfony Library Challenge
 
 The application is already set up, just run `composer install` to install all dependencies.
 
